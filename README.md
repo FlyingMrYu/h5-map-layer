@@ -1,8 +1,8 @@
 # h5-map-layer
 ## h5 百度地图+layui
-> <span class="dw-span">定位</span>
-> <script type="text/javascript" src="http://developer.baidu.com/map/jsdemo/demo/convertor.js"></script>
-> <script src="http://api.map.baidu.com/api?v=2.0&ak=Bkt35L4KBEfD3sYqzWIAXEZpuXdkHGNu" type="text/javascript" charset="utf-8"></script>
+ <span class="dw-span">定位</span>
+ <script type="text/javascript" src="http://developer.baidu.com/map/jsdemo/demo/convertor.js"></script>
+<script src="http://api.map.baidu.com/api?v=2.0&ak=Bkt35L4KBEfD3sYqzWIAXEZpuXdkHGNu" type="text/javascript" charset="utf-8"></script>
 $(".dw-span").on("click", function() {
 					layer.open({
 						type: 1,
